@@ -1,0 +1,24 @@
+{
+  "name": "plusdb",
+  "version": "0.1.4",
+  "description": "Trusted open source and fast accessible easy database.",
+  "main": "index.js",
+  "types": "types/index.d.ts",
+  "keywords": [ 
+      "nosql",
+      "database",
+      "db",
+      "to-JSON",
+      "opensource",
+      "json",  
+      "jsonbase"
+  ],
+  "license": "MIT",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Reczn/plusdb"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
